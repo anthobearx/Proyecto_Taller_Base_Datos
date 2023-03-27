@@ -1,0 +1,12 @@
+E:\walli\7mo Semestre\Tesebada\Unidad 2\ProyectoBD\ProyectoBD\bin\Debug\ProyectoBD.exe.config
+E:\walli\7mo Semestre\Tesebada\Unidad 2\ProyectoBD\ProyectoBD\bin\Debug\ProyectoBD.exe
+E:\walli\7mo Semestre\Tesebada\Unidad 2\ProyectoBD\ProyectoBD\bin\Debug\ProyectoBD.pdb
+E:\walli\7mo Semestre\Tesebada\Unidad 2\ProyectoBD\ProyectoBD\obj\Debug\ProyectoBD.csproj.AssemblyReference.cache
+E:\walli\7mo Semestre\Tesebada\Unidad 2\ProyectoBD\ProyectoBD\obj\Debug\ProyectoBD.Login.resources
+E:\walli\7mo Semestre\Tesebada\Unidad 2\ProyectoBD\ProyectoBD\obj\Debug\ProyectoBD.Properties.Resources.resources
+E:\walli\7mo Semestre\Tesebada\Unidad 2\ProyectoBD\ProyectoBD\obj\Debug\ProyectoBD.csproj.GenerateResource.cache
+E:\walli\7mo Semestre\Tesebada\Unidad 2\ProyectoBD\ProyectoBD\obj\Debug\ProyectoBD.csproj.CoreCompileInputs.cache
+E:\walli\7mo Semestre\Tesebada\Unidad 2\ProyectoBD\ProyectoBD\obj\Debug\ProyectoBD.exe
+E:\walli\7mo Semestre\Tesebada\Unidad 2\ProyectoBD\ProyectoBD\obj\Debug\ProyectoBD.pdb
+E:\walli\7mo Semestre\Tesebada\Unidad 2\ProyectoBD\ProyectoBD\obj\Debug\ProyectoBD.Insertar.resources
+E:\walli\7mo Semestre\Tesebada\Unidad 2\ProyectoBD\ProyectoBD\obj\Debug\ProyectoBD.Consultar.resources
